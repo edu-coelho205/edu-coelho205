@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on FF soltec
 - 🌱 I’m currently learning Javascript, HTML5 and CSS3
 
-[![Linkedin]https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white](www.linkedin.com/in/eduardo-coelho-a89298252)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/eduardo-coelho-a89298252)
 
 ![Snake animation](https://github.com/guifreiberger/guifreiberger/blob/output/github-contribution-grid-snake.svg)
