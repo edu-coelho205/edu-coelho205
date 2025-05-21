@@ -11,9 +11,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working on FF soltec
-- 🌱 I’m currently learning Javascript, HTML5 and CSS3
-- 😄 I want to learn Node.js and C++
+- 📖 I'm currently studying Software Engineering at the University Center - Católica of Santa Catarina in Jaraguá do Sul, Brazil.
+- 🔭 I am currently working at F F SOLUCOES EM SOFTWARE LTDA (F F SOFTWARE SOLUTIONS LTDA), with Intersystems Caché, MUMPS standard language.
+- 🌱 I’m currently learning Javascript, HTML5, CSS3 and C++.
+- 😄 I want to learn Node.js and Java.
 
 - <b>📫 How to reach me:</b>
 
